@@ -5,7 +5,7 @@
 # License: GNU AGPL – http://www.gnu.org/licenses/agpl-3.0.html
 
 
-''' This addon hooks TextImporter (CSV files) to automatically add media files occurring to the media directory. '''
+''' This addon hooks TextImporter (CSV files) to automatically import media files within the same directory. '''
 
 __version__ = '1.0.0'
 
