@@ -1,4 +1,4 @@
-anki-addons
+auto-import-media.py
 ===========
 
-Addons for Anki.
+This addon hooks TextImporter (CSV files) to automatically import media files within the same directory.
